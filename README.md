@@ -1,6 +1,15 @@
+<!--
 <h1 align="center">
   <img alt="Logo" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
 </h1>
+-->
+<h1 align="center">
+  ![logo](https://github.com/EliasGcf/gobarber-web/assets/167829912/ccd1a99a-9cb9-40d7-8822-82d0441ae038)
+  ![logo](https://github.com/EliasGcf/gobarber-web/assets/167829912/0c005b70-756e-4869-89bd-3a0af5717a6e)
+
+</h1>
+  ![logo](https://github.com/EliasGcf/gobarber-web/assets/167829912/0c005b70-756e-4869-89bd-3a0af5717a6e)
+
 
 <h3 align="center">
   ReactJS Application for GoBarber project
